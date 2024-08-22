@@ -64,6 +64,7 @@ Acts as the central place for documentation, ensuring that users and contributor
 Onboarding and Contribution:
 Includes instructions for contributing to the project, such as coding standards, submission guidelines, and how to report issues. This streamlines the onboarding process for new contributors.
 
+
 Project Maintenance:
 Helps in maintaining project consistency and quality by providing a reference for best practices, standards, and workflows.
 
